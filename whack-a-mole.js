@@ -15,7 +15,7 @@ var randomCell = cells[randomIndex]
 
 var mole = document.createElement('img');
 
-mole.src = './mole.png'
+mole.src = './mole.PNG'
 mole.id = "mole"
 
 randomCell.appendChild(mole);
